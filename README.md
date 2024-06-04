@@ -18,3 +18,8 @@ Requirements:
 ```bash
 mvn clean install
 ```
+
+Below code can also be used for building
+```bash
+mvn clean package
+```
